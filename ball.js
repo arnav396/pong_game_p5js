@@ -5,7 +5,7 @@ class Ball
     this.x = 200;
     this.y = 100;
     this.w = 20;
-    this.vx = 1.5;
+    this.vx = 1.6;
     this.vy = 2;
   }
   
